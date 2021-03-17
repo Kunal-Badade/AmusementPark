@@ -120,7 +120,7 @@ p{
 }
 .nav .nav-brand a{
     font-size: 1.6rem;
-    padding:1 rem 0;
+    padding: 1rem 0;
     display: block;
     font-family: var(--Abel);
     
@@ -214,12 +214,12 @@ main .post-content{
     
     
 }
-main .site-content .post-content > .post-image .post-title{
+main .site-content .post-content > .post-image, .post-title{
     padding: 1rem 2rem;
     position: relative;
 }
 main .site-content .post-content > .post-image .post-info{
-    background: cyan;
+    background: rgb(0,255,255);
     padding: 1rem;
     position: absolute;
     bottom: 0%;
@@ -228,7 +228,7 @@ main .site-content .post-content > .post-image .post-info{
 
 }
 
-main .site-content .post-content > .post-image > div{
+main .site-content > .post-image > div{
     overflow: hidden;
 }
 main .site-content .post-content > .post-image .icecream{
