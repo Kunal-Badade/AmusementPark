@@ -222,30 +222,12 @@ main .site-content .post-content > .post-image .post-info{
     background: cyan;
     padding: 1rem;
     position: absolute;
-    top: 138vw;
-    left: 15vw;
+    bottom: 0%;
+    left: 12vw;
     border-radius: 3rem;
 
 }
-main .site-content .post-content > .post-image .post-infoagain{
-    background: cyan;
-    padding: 1rem;
-    position: absolute;
-    top: 197vw;
-    left: 15vw;
-    border-radius: 3rem;
 
-}
-main .site-content .post-content > .post-image .post-infore{
-    background: cyan;
-    padding: 1rem;
-    position: absolute;
-    top: 245vw;
-    
-    left: 15vw;
-    border-radius: 3rem;
-
-}
 main .site-content .post-content > .post-image > div{
     overflow: hidden;
 }
